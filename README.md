@@ -2,6 +2,7 @@
 Generative AI with Pre-trained LLMs
 
 **Victoria Salomon**
+
 **Model Used:** gpt2 (Hugging Face)  
 **Task:** Text Generation
 
