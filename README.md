@@ -33,7 +33,7 @@ This project demonstrates the use of a pre-trained Large Language Model (GPT-2) 
    tokenizer = AutoTokenizer.from_pretrained("gpt2")
    model = AutoModelForCausalLM.from_pretrained("gpt2")
 
-   ## Parameter Test Cases Summary
+## Parameter Test Cases Summary
 
 | Parameter | Value | Output Snippet | Observation |
 |-----------|-------|----------------|------------|
