@@ -1,7 +1,7 @@
 # AI-ML-Assignment-4-Generative-LLM
 Generative AI with Pre-trained LLMs
 
-Victoria Salomon 
+**Victoria Salomon**
 **Model Used:** gpt2 (Hugging Face)  
 **Task:** Text Generation
 
